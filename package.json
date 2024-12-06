@@ -1,0 +1,23 @@
+{
+  "name": "practica-final-devops-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKillerRD/Practica-Final-Devops-CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKillerRD/Practica-Final-Devops-CI-CD/issues"
+  },
+  "homepage": "https://github.com/JKillerRD/Practica-Final-Devops-CI-CD#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
